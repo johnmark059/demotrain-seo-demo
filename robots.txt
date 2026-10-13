@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap URL
-Sitemap: https://johnmark059.github.io/demotrain-seo-demo/sitemap.xml
+Sitemap: https://heretic-rail-route-go.base44.app/sitemap.xml
